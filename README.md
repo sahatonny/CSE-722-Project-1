@@ -23,7 +23,6 @@ This is a two-user encrypted chat application built for the **CSE722: Security c
 
 - server.py ( Runs the server-side chat application )
 - client.py ( Runs the client-side chat application )
-- Screenshots ( Screenshots of packet captured using Wireshark )
 - README.md ( This file )
 
 
